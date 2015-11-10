@@ -1,0 +1,5 @@
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Cat\bin\Debug\Cat.dll
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Cat\bin\Debug\Cat.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Cat\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Cat\obj\Debug\Cat.dll
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Cat\obj\Debug\Cat.pdb

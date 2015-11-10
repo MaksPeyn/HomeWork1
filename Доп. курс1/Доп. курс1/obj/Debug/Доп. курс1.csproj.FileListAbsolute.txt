@@ -1,0 +1,7 @@
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\bin\Debug\Доп.курс1.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\bin\Debug\Доп.курс1.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\bin\Debug\Cat.dll
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\bin\Debug\Cat.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\obj\Debug\Доп. курс1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\obj\Debug\Доп.курс1.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Доп. курс1\Доп. курс1\obj\Debug\Доп.курс1.pdb
