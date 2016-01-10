@@ -8,10 +8,11 @@ namespace Доп.курс1
         static void Main(string[] args)
         {
             int k;
-            var kisa = new Cat();
+            Console.Write("Животное какого возраста вы бы хотели приобрести?\n");
+            var kisa = new Cat (Convert.ToInt32(Console.ReadLine()));
             do
             {
-                Console.WriteLine("1) Задать имя;\n2) Задать цвет;\n3) Ударить;\n4) Покормить;");
+                Console.WriteLine("1) Задать имя;\n2) Задать цвет;\n3) Ударить;\n4) Покормить;\n0) Выход;\n");
                 k = Convert.ToInt32(Console.ReadLine());
                 switch (k)
                 {
@@ -27,7 +28,7 @@ namespace Доп.курс1
                         k = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Введите цвет кошки(та):");
                         if (k == 1) kisa.Color.SickColor = Console.ReadLine();
-                        else if (k == 2) kisa.Color.HeathyColor = Console.ReadLine();
+                        else if (k == 2) kisa.Color.HealthyColor = Console.ReadLine();
                         break;
                     }
                     case 3:
@@ -45,7 +46,7 @@ namespace Доп.курс1
                 Console.WriteLine("Текущая информация о кошке(те):");
                 Console.WriteLine(kisa.Name);
                 Console.WriteLine(kisa.Age);
-                Console.WriteLine(kisa.CurrentColor());
+                Console.WriteLine(kisa.CurrentColor);
             } while (k != 0);
         }
     }
